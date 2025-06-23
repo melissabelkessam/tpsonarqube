@@ -1,0 +1,6 @@
+projectKey=tpsonarqube
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=tpsonarqube
+ceTaskId=537993bd-0178-44a8-af9a-036071814611
+ceTaskUrl=http://localhost:9000/api/ce/task?id=537993bd-0178-44a8-af9a-036071814611
